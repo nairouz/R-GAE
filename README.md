@@ -36,7 +36,10 @@ python3 ./R-GMM-VGAE/main_cora.py
 
 All the required libraries are provided in the ```requirement.txt``` file. The code is buildt with:
 
-* [Pytorch](https://pytorch.org/) - ML library
+* python 3.6
+* Pytorch 1.7.0
+* scikit-learn
+* scipy
 
 ## Datasets
 
