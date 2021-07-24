@@ -78,10 +78,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * **Mohamed Fawzi Touati** - *Grad Student (Université du Québec à Montréal)* 
 * **Riadh Ksantini** - *Professor (University of Bahrain)*
 
-## Acknowledgments
-
-* The implementation of all GAE models are inspired from (https://github.com/tkipf/gae).
-* The implementation of GMM-VGAE is also inspired from (https://github.com/GuHongyang/VaDE-pytorch).
  
 ## Citation
   
