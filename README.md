@@ -34,7 +34,7 @@ python3 ./R-GMM-VGAE/main_cora.py
 
 ## Built With
 
-All the required libraries are provided in the ```requirement``` file. The code is buildt with:
+All the required libraries are provided in the ```requirement.txt``` file. The code is buildt with:
 
 * [Pytorch](https://pytorch.org/) - ML library
 
