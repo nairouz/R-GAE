@@ -7,22 +7,22 @@ Most recent graph clustering methods have resorted to Graph Auto-Encoders (GAEs)
 ## Conceptual design
 
 <p align="center">
-<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_2.png" width="400" height="300">
+<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_2.png">
 </p>
 
 ## Some results
 
 ### Quantitative 
 <p align="center">
-<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_3.png" width="400" height="300">
+<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_3.png" >
 </p>
 <p align="center">
-<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_4.png" width="400" height="300">
+<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_4.png" >
 </p>
 
 ### Qualitative 
 <p align="center">
-<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_1.png" width="800" height="400" >
+<img align="center" src="https://github.com/nairouz/R-GAE/blob/master/image_1.png">
 </p>
 
 ## Usage
