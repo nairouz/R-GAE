@@ -82,10 +82,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
   
   ```
-  @article{mrabah2021rethinking,
-  title={Rethinking Graph Autoencoder Models for Attributed Graph Clustering},
-  author={Mrabah, Nairouz and Bouguessa, Mohamed and Touati, Mohamed Fawzi and Ksantini, Riadh},
-  journal={arXiv preprint arXiv:2107.08562},
-  year={2021}
-  }
+@ARTICLE {nmrabah,
+author = {N. Mrabah and M. Bouguessa and M. Touati and R. Ksantini},
+journal = {IEEE Transactions on Knowledge and Data Engineering},
+title = {Rethinking Graph Auto-Encoder Models for Attributed Graph Clustering},
+}
   ```
